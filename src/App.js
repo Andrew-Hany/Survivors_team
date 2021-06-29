@@ -217,7 +217,7 @@ class App extends Component {
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleDown()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleDown()}>Enroll</a>
                            
                         </div>
                     </div>
@@ -228,13 +228,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im2} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Alphabet Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -245,13 +245,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im3} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Primary course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -262,13 +262,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im4} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">High School course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -282,13 +282,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im5} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Primary Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -299,13 +299,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im6} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Perp Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -316,13 +316,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im7} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">High School Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -333,13 +333,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im8} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Maths Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -352,13 +352,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im9} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Braille Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -369,13 +369,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im10} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Probability Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -386,13 +386,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im11} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Programming</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -403,13 +403,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im12} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Physics Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -422,13 +422,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im16} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Sign Language Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -439,13 +439,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im13} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Physics Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -456,13 +456,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im14} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">Graphic design Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
@@ -473,13 +473,13 @@ class App extends Component {
                         <div className="  shadow card-body" style={{width: "18rem", backgroundColor:"white",cursor:"pointer"}} >
                          <img src={Im15} className="card-img-top cropped1" alt="..."/>
                           
-                            {!this.props.Upage&&<p className="text-capitalize card-text">Fruits Course</p>}
+                            {!this.props.Upage&&<p className="text-capitalize card-text">probability Course</p>}
                             {this.props.Upage&&<div className="text-capitalize  fw-light text-center fs-6"> Company Name: <span className="text-success">{this.state.company.comp_name}</span> </div>}
                             <ul className="list-group list-group-flush">
                            
 
                             </ul>
-                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enrol</a>
+                            <a className={"btn btn-primary "} onClick={()=>this.toogleUnder()}>Enroll</a>
                             
                         </div>
                     </div>
