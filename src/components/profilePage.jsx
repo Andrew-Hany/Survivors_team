@@ -36,7 +36,7 @@ export default class customer extends Component {
                     <div className = "rectangle"> 
                     
                     </div>
-                    <div className ="name shadow"> Andrew Nady </div>
+                    <div className ="name shadow"> Sophia Labib </div>
                     <div className = "rectangle"> </div>
                     <div className = "rectangle"> </div>
                     <div className="container ">
@@ -57,9 +57,9 @@ export default class customer extends Component {
                         <div className="row">
                             <div className="col">
                                 
-                                <div className="text-capitalize fs-5  text-start m-3 ml-5  text-light" >First Name: <span className="text-info fw-light">Andrew</span></div>
-                                <div className="text-capitalize fs-5  text-start m-3 ml-5  text-light">Last Name: <span className="text-info fw-light">Nady</span></div>
-                                <div className="text-capitalize fs-5  text-start m-3 ml-5  text-light">Mail:<span className="text-info fw-light">andrewhany@aucegypt.edu</span> </div>
+                                <div className="text-capitalize fs-5  text-start m-3 ml-5  text-light" >First Name: <span className="text-info fw-light">Sophia</span></div>
+                                <div className="text-capitalize fs-5  text-start m-3 ml-5  text-light">Last Name: <span className="text-info fw-light">Labib</span></div>
+                                <div className="text-capitalize fs-5  text-start m-3 ml-5  text-light">Mail:<span className="text-info fw-light">Sophia@aucegypt.edu</span> </div>
                                 <div className="text-capitalize fs-5  text-start m-3 ml-5  text-light">Telephone number:<span className="text-info fw-light">012345678</span> </div>
                             </div>
                             <div className="col">

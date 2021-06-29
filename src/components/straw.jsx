@@ -7,7 +7,7 @@ export default class Straw extends Component {
         return (
             <div>
                 
-                <p className="lesson">Under Construction</p>
+                <p className="lesson">Coming Soon...</p>
             </div >
         )
     }

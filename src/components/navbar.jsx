@@ -46,7 +46,7 @@ export default class navbar extends Component {
             </ul>
            
             <div className="d-flex">
-            <div className="text-capitalize text-light">{this.props.user_fname} {this.props.user_lname}</div>
+            <div className="text-capitalize text-light">Sophia Labib</div>
             &nbsp;&nbsp;&nbsp;&nbsp;
             <div className="fas fa-user-alt fs-2 text-light"></div>
             </div>

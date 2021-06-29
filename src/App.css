@@ -161,7 +161,7 @@ z-index: 100;
   top:500px;
   margin-right: 100px;
   float:right;
-  /* display: hidden; */
+  visibility: hidden;
 
 }
 .cropped1 {

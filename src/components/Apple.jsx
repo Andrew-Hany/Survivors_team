@@ -6,7 +6,7 @@ import Obj from '../assest/Apple.obj'
 import Mtl from '../assest/Apple.mtl'
 import {MTLModel} from 'react-3d-viewer'
 
-import Audio from './slide1.mp3'
+import Audio from './slide1.ogg'
 
 export default class trips extends Component {
     state = {
@@ -30,8 +30,8 @@ startLeanring=()=>{
            
            <p className="lesson"> lesson {this.props.id+1}, {this.props.lessons[this.props.id].name} </p>
             
-           <audio controls loop className="audio" id="myAudio"> 
-                <source src={Audio} type="audio/mpeg" play={true} />
+           <audio controls className="audio" id="myAudio"> 
+                <source src={Audio} type="audio/ogg"  />
             </audio>
            <div className="object border border-5">
                   <MTLModel 
