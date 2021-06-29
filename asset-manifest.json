@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Survivors_team/static/css/main.57511aa1.chunk.css",
-    "main.js": "/Survivors_team/static/js/main.c757b74e.chunk.js",
-    "main.js.map": "/Survivors_team/static/js/main.c757b74e.chunk.js.map",
+    "main.js": "/Survivors_team/static/js/main.b932b982.chunk.js",
+    "main.js.map": "/Survivors_team/static/js/main.b932b982.chunk.js.map",
     "runtime-main.js": "/Survivors_team/static/js/runtime-main.9ccab35b.js",
     "runtime-main.js.map": "/Survivors_team/static/js/runtime-main.9ccab35b.js.map",
     "static/css/2.7d3194d7.chunk.css": "/Survivors_team/static/css/2.7d3194d7.chunk.css",
@@ -46,6 +46,6 @@
     "static/css/2.7d3194d7.chunk.css",
     "static/js/2.59effbd6.chunk.js",
     "static/css/main.57511aa1.chunk.css",
-    "static/js/main.c757b74e.chunk.js"
+    "static/js/main.b932b982.chunk.js"
   ]
 }
